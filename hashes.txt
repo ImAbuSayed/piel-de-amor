@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de amor
+
+This log tracks the cryptographic history and versioning for the song **Piel de amor** (piel-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T05:47:38.380554 | `v1` | `c94433fed00df420cf858fb8f06e07dab0f830dfd2a7458c39f5b9fa5c6e610b` | `54032ed4f5f34d5984606d231e726a69fbaf6640ae0525f67cca21a06b0775a8` | `2026-06-24_piel-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
