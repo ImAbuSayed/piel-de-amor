@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú y yo perdiendo el control en la oscuridad
+> Sentirte tan cerca, nena, es mi debilidad
+> Rozando tu cuerpo, estamos quemando la ciudad
+> Cruzando la línea esta noche sin tener piedad
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
